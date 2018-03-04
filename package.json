@@ -1,0 +1,15 @@
+{
+  "name": "arkh",
+  "version": "1.0.0",
+  "description": "this is a website for Arkh food and spice, its a page that displays an underconstruction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rameshwar Rao",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
