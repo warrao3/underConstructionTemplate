@@ -1,0 +1,106 @@
+body
+{
+   padding-top: 50px;
+   color: #fff;
+}
+
+h1
+{
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+	font-size: 5em;
+}
+
+
+
+
+.nav-inverse
+{
+    height: 60px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 60px;
+}
+
+
+.glyphicon
+{
+    padding-right: 10px;
+}
+
+
+#bgimg
+{
+    background: url(https://images.unsplash.com/photo-1509358271058-acd22cc93898?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ae1e24dbf29bdd16dcb451179a3016e3&auto=format&fit=crop&w=1350&q=80);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+img
+{
+    padding-top: 100px;
+    margin: auto 0;
+}
+
+#content
+{
+	padding-top: 5%;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 28px rgba(0,0,0,0.1);
+}
+
+
+
+
+#title
+{
+    padding-top: 100px;
+}
+
+#contact-id
+{
+    background-color: rgb(24,25,26);
+    float: left;
+    width : 100%;
+}
+
+li{
+    list-style-type: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+a{
+    color: #fff;
+    font-size: 20px;
+    
+}
+
+#paddown
+{
+    padding-top: 60px;
+}
+
+
+.items
+{
+    margin: 15px auto;
+}
+
+.padBt
+{
+    padding-bottom: 50px;
+}
+
+#mapEmbed
+{
+    width: 100%;
+    margin: 0 auto;
+}
